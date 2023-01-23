@@ -9,7 +9,10 @@
 
 A notekeeper CRUD app built in React
 
+## Key concepts learnt
 
+- React components and props
+- React hooks: useState() 
 
 ## Live link
 
